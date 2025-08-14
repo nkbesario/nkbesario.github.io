@@ -1,0 +1,99 @@
+h1 {
+    padding-left: 1100px;
+    color: white;
+    font-family: Arial;
+}
+body {
+    background-color:#16365d
+
+}
+p {
+    color: white;
+}
+.myspan {
+    color: red;
+    font-family: Arial;
+    font-style: italic;
+}
+.luv1 {
+    color: purple;
+    font-weight: bold;
+}
+.luv2 {
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+h2 {
+    padding-left: 600px;
+    color: red;
+    font-family: Arial;
+}
+.luv3 {
+    text-align: justify;   
+}
+.luv4 {
+    color: yellow;
+     text-decoration: underline;
+}
+.luv5 {
+    color: blue;
+}
+.luv6 {
+    color: green;
+    font-weight: bold;
+
+}
+h3 {
+    font-size: 30px;
+    background-color:black;
+    color:white;
+    width: 50%;
+    border-top: 200px dolted red;
+    border-bottom: 200px dolted red;
+    padding-bottom: 40px;
+}
+.la {
+    color: white;
+}
+.la2 {
+    color: white;
+}
+.la3 {
+    color: white;
+}
+.rah {
+    color: blue;
+    font-family: Arial;
+    font-style: italic;
+}
+.nah {
+    color:red;
+    font-weight: bold;
+}
+.highlight-green {
+    background-color: limegreen;
+    color: black;
+    padding: 2px 4px;
+}
+.controls-paragraph {
+    background-color: black;
+    color: white;
+    font-size: 14px;
+}
+.yuh {
+    background-color: red;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+}
+h4 {
+    color: yellow;
+    padding-left: 50px;
+    text-decoration: underline;
+}
+h6 {
+    color: limegreen;
+    font-size: 25px;
+    
+}
