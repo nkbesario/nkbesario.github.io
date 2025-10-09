@@ -1,0 +1,18 @@
+* {
+    background-color: #3b5d50;
+    color-scheme: #3b5d50;
+    color: #3b5d50;
+    font: Inter; 
+}
+
+
+.container-fluid, row, col, mb, bg {
+    background-color:#3b5d50;
+    color: #3b5d50;
+
+}
+
+.custom-element {
+  color: gray-100;
+  background-color: dark;
+}
