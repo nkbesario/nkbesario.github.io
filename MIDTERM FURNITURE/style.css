@@ -1,0 +1,93 @@
+ body {
+      font-family: 'Inter', sans-serif;
+      background-color: #3b5d50;
+      color: white;
+    }
+    .navbar {
+      background-color: #3b5d50;
+    }
+    .nav-link.active {
+      color: #f9be29 !important;
+      border-bottom: 2px solid #f9be29;
+    }
+    .btn-accent {
+      background-color: #f9be29;
+      color: #3b5d50;
+      font-weight: 600;
+    }
+    .btn-accent:hover {
+      background-color: #e6ad20;
+      color: #3b5d50;
+    }
+
+   .hollow-dots li {
+    position: relative;
+    padding-left: 20px;
+    margin-bottom: 8px;
+  }
+
+
+.hollow-dots li {
+      position: relative;
+      padding-left: 20px;
+      margin-bottom: 8px;
+    }
+
+.hollow-dots li::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 6px;
+      width: 8px;
+      height: 8px;
+      border: 2px solid #000;
+      border-radius: 50%;
+    }
+
+/* Chair Collection Section */
+.chair-collection {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  padding: 60px 0;
+  background-color: #f5f7f6;
+}
+
+.chair-item {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  max-width: 240px;
+}
+
+.chair-img {
+  width: 80px;
+  height: 80px;
+  border-radius: 15px;
+  object-fit: cover;
+}
+
+.chair-info h4 {
+  font-size: 14px;
+  font-weight: 700;
+  color: #000;
+  margin-bottom: 5px;
+}
+
+.chair-info p {
+  font-size: 12px;
+  color: #555;
+  margin-bottom: 8px;
+}
+
+.read-more {
+  font-size: 12px;
+  font-weight: 600;
+  color: #000;
+  text-decoration: none;
+}
+
+.read-more:hover {
+  text-decoration: underline;
+}
+
